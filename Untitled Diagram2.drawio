@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T16:27:13.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="TcsXEQ2s0x6ToMeqVzGG" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T16:27:47.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="y0AnmOA_D53N5qS8ea2m" version="13.9.9" type="github">
   <diagram id="kAck30q0n1SWu0mY80vo" name="Page-1">
-    <mxGraphModel dx="1422" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,6 +67,9 @@
         </mxCell>
         <mxCell id="pvdILLQp2z0XS6JpvBbr-26" value="Так" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="640" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pvdILLQp2z0XS6JpvBbr-27" value="Завдання 2&lt;br&gt;Римський Данило 2П-19" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="165" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
