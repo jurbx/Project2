@@ -1,1 +1,168 @@
-<mxfile host="app.diagrams.net" modified="2020-12-12T19:41:09.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.0.1" etag="UBF-WVmCD4NbUkHl7K-l" type="github"><diagram id="MSXE1bKosFOO5pImcWMi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-12T20:04:24.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DH7DYaZVKx_pBRk6wiyx" version="14.0.1" type="github">
+  <diagram id="MSXE1bKosFOO5pImcWMi" name="Page-1">
+    <mxGraphModel dx="2031" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="520.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-1" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Початок&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="310" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-8" target="UibPBsfiFb1iLtGXHdIm-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="565.0000000000002" as="targetPoint" />
+            <mxPoint x="785" y="565.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="565" as="sourcePoint" />
+            <mxPoint x="410" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="UibPBsfiFb1iLtGXHdIm-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="770" as="targetPoint" />
+            <mxPoint x="580.0000000000005" y="620" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-8" value="&lt;font style=&quot;font-size: 28px&quot;&gt;У нас є 20 шкарпеток&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="520" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-21" target="UibPBsfiFb1iLtGXHdIm-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="770" as="targetPoint" />
+            <mxPoint x="315" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="620" />
+              <mxPoint x="315" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="890" as="targetPoint" />
+            <mxPoint x="445" y="859.9999999999995" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="930" as="targetPoint" />
+            <mxPoint x="445" y="859.9999999999995" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="810" />
+              <mxPoint x="430" y="890" />
+              <mxPoint x="310" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-17" value="Так" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="320" y="830" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-18" value="Ні" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="500" y="850" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-19" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 25px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Беремо першу шкарпетку&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="480" y="505" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-21" target="UibPBsfiFb1iLtGXHdIm-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="565" />
+              <mxPoint x="390" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-21" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 25px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Беремо другу шкарпетку&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-24" value="&lt;span style=&quot;font-size: 25px&quot;&gt;Шкарпетки однакові?&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-28" target="UibPBsfiFb1iLtGXHdIm-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-28" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Відкладаємо пару шкарпеток&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="220" y="930" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-29" target="UibPBsfiFb1iLtGXHdIm-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-29" value="Беремо наступну шкарпетку" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="600" y="840" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-30" target="UibPBsfiFb1iLtGXHdIm-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1170" as="targetPoint" />
+            <mxPoint x="685" y="1140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="685" y="1170" />
+              <mxPoint x="310" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-30" target="UibPBsfiFb1iLtGXHdIm-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="1075" />
+              <mxPoint x="880" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-30" value="Чи схожа вона на попередні?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="593.75" y="1020" width="182.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-36" value="Так" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-37" value="Ні" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="785" y="1040" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-39" target="UibPBsfiFb1iLtGXHdIm-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="UibPBsfiFb1iLtGXHdIm-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="1240" />
+              <mxPoint x="990" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-39" value="Чи розсортовано всі 20 шкарпеток?" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1130" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-41" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Кінець&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-43" value="Так" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-44" value="Ні" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UibPBsfiFb1iLtGXHdIm-46" value="Римьский Данило 2П-19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="710" y="690" width="190" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
